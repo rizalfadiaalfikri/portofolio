@@ -90,13 +90,16 @@ const About = () => {
                                         <p className="text-gray-400 mb-4">Nov 2022  - Feb 2023</p>
                                         <ul className="list-disc pl-5">
                                             <li>
-                                                <p>Performing maintenance on the machine learning and hardware aspects for the Biofarma CPE Polio project.</p>
+                                                <p>Building an object detection system to identify houses and tanks using the YOLO framework.</p>
                                             </li>
                                             <li>
-                                                <p>Developing the Telkomsel Radio Network Private (RNP) system using Java EE / Jakarta EE and JSP (Java Server Pages).</p>
+                                                <p>Developing an OCR system to extract information from a document.</p>
                                             </li>
                                             <li>
-                                                <p>Building and developing face recognition to identify a person&apos;s face.</p>
+                                                <p>Creating a document scanner using OpenCV Python.</p>
+                                            </li>
+                                            <li>
+                                                <p>Building a handwritten recognition system to identify sentences written by hand.</p>
                                             </li>
                                         </ul>
                                     </section>
