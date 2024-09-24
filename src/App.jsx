@@ -1,5 +1,7 @@
+import About from "./components/About"
 import Home from "./components/Home"
 import Nabvar from "./components/Navbar"
+import Title from "./components/Title"
 
 function App() {
 
@@ -7,6 +9,11 @@ function App() {
     <>
       <Nabvar/>
       <Home/>
+
+      <Title title="About .">
+        <About/>
+      </Title>
+
     </>
   )
 }
