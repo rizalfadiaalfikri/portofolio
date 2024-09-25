@@ -9,7 +9,7 @@ const About = () => {
             <div className="container mx-auto flex justify-center items-center flex-col mt-10">
                 <p className="text-justify text-lg">I am a Backend Developer with approximately 2 years of experience, specializing in Java and Spring Boot. I have developed efficient backend applications and collaborated with teams to create innovative software solutions. Additionally, I have a strong interest in Artificial Intelligence, particularly in Computer Vision and Natural Language Processing, and I continuously enhance my knowledge in these areas. I believe my combination of backend expertise and interest in AI allows me to make meaningful contributions to the projects I work on.</p>
                 <div className="mt-5 w-full">
-                    <ul className="flex justify-start flex-wrap -mb-px">
+                <ul className="flex justify-start flex-wrap -mbz-px">
                         <li className="me-2">
                             <button
                             className={`inline-block pt-4 pb-4 pr-4 border-b-2 rounded-t-lg ${activeTab === 0 ? 'text-white border-white' : 'border-transparent hover:text-blue-600 hover:border-blue-300'}`}
